@@ -1,0 +1,19 @@
+Body {
+    padding: 1rem;
+    margin: 0;
+}
+
+img {
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-family: arial;
+}
+
+table tr td {
+    padding: 5px;
+    font-family: arial;
+    vertical-align: text-top;
+}
